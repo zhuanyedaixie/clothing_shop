@@ -79,7 +79,7 @@ mvc 模式
 ## 文档【课程报告】
 ![首页](https://github.com/zhuanyedaixie/clothing_shop/blob/main/26%20(1).png)
 
-## 安装与下载
+## 安装与下载【idea与eclipse与myeclipse均可运行】
 ### 加QQ：2108657327 免费获取项目源代码！！！        
 
 
